@@ -64,3 +64,12 @@ It allows users to filter the data in an easier fashion, and to hone in on diffe
 - Adding plotly visualizations onto the dashboard to further analyze the data, i.e:
   - Grade counts by County (bar plot, or bubble chart where size represents the number of beaches w high grades)
   - Beach count vs grade (less focused visualization than the first)
+
+
+![image](/assets/landingslide.png)
+
+![image](/assets/beachloc.png)
+
+![image](/assets/watergrades.png)
+
+![image](/assets/samplebar.png)
