@@ -1,4 +1,6 @@
-# Beach Report - Team B
+# Beach Report
+
+To see the project, visit: https://project-two-jh-ks-sw.herokuapp.com/ 
 
 ## Final Report
 
